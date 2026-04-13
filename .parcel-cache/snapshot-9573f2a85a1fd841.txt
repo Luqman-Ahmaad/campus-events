@@ -1,0 +1,14 @@
+13
+50D:\campus_event_devops\campus-events\.dockerignore134205688869561231 0
+49D:\campus_event_devops\campus-events\package.json134205690631732201 0
+47D:\campus_event_devops\campus-events\.gitignore134205688869561231 0
+43D:\campus_event_devops\campus-events\styles134205690631732201 1
+47D:\campus_event_devops\campus-events\Dockerfile134205688869717559 0
+46D:\campus_event_devops\campus-events\README.md134205688869717559 0
+53D:\campus_event_devops\campus-events\styles\style.css134205697664261870 0
+54D:\campus_event_devops\campus-events\src\packages.html134205690631732201 0
+40D:\campus_event_devops\campus-events\src134205690631732201 1
+53D:\campus_event_devops\campus-events\src\contact.html134205697713992935 0
+57D:\campus_event_devops\campus-events\src\destination.html134205690631732201 0
+53D:\campus_event_devops\campus-events\src\gallery.html134205690631732201 0
+51D:\campus_event_devops\campus-events\src\index.html134205690631732201 0
